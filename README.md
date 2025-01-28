@@ -87,7 +87,7 @@ npm run lint
 Use a `.env.local` file to manage environment-specific variables. Example:
 
 ```env
-NEXT_PUBLIC_API_URL=http://localhost:3000 #use backend port
+NEXT_PUBLIC_API_URL=http://localhost:3000/api #use backend port
 PORT=4000
 ```
 

@@ -19,21 +19,21 @@ Before getting started, ensure the following are installed:
 
 Clone the repository from your version control system:
 ```bash
-git clone <repository-url>
+git clone https://github.com/MechaMahmud71/as_sunnah_front_end.git
 ```
 
 ### 2. Install Dependencies
 
 Install the necessary dependencies:
 ```bash
-npm install -p 4000
+npm install 
 ```
 
 ### 3. Run the Development Server
 
 Start the development server:
 ```bash
-npm run dev -p 4000
+npm run dev 
 ```
 
 
